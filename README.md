@@ -1,17 +1,15 @@
 # FarsiFineTuner
-Fine-tuning Falcon 7B Model for Farsi Language Tasks
+This project aims at fine-tuning a language model for Farsi language, facilitating improved NLP tasks for Farsi-speaking communities. This endeavor is a collaborative effort, with a special focus on aiding accessibility and providing free resources for users.
 
-This repository aims to fine-tune the Falcon 7B model to cater to Farsi language tasks better. It's an initiative taken up by an individual and his wife, living in Iran, facing sanctions and obstacles, yet striving to make impactful contributions for over 110 million Farsi-speaking individuals, including those with visual impairments who can benefit from this work.
+## Structure
+- `src/`: Source code for the project
+- `data/`: Data files necessary for training and evaluation
+- `scripts/`: Utility scripts
+- `configs/`: Configuration files
+- `results/`: Output and result files from model training and evaluation
 
-## Directory Structure
-- `src/` - Source code for the project.
-- `data/` - Data files used for training and evaluation.
-- `scripts/` - Various scripts for running, testing, and evaluating the model.
-- `configs/` - Configuration files for different parts of the system.
-- `results/` - Directory to store the results of the model evaluations.
+## Getting Started
+Instructions on setting up the environment, training the model, and evaluating results will be provided soon.
 
-## How to Contribute
-If you wish to contribute, feel free to create a pull request or open an issue.
-
-## License
-[MIT](LICENSE)
+## Contributions
+We welcome contributions and suggestions. Please feel free to open an issue or submit a pull request.
