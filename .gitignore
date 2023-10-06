@@ -1,14 +1,18 @@
-# System files
-.DS_Store
-Thumbs.db
-
-# Virtual Environment
-venv/
+# Python
 *.pyc
+__pycache__/
 
-# JetBrains IDE
-.idea/
-
-# Results and data
-results/
+# Data
 data/
+
+# Results
+results/
+
+# Config
+configs/
+
+# Scripts
+scripts/
+
+# System
+.DS_Store
